@@ -1,0 +1,20 @@
+{
+  "name": "cunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "merge": "npx sol-merger \"./contracts-raw/*.sol\" ./contracts",
+    "deploy": "npm run merge && npx truffle migrate --reset",
+    "compile": "npm run merge && npx truffle compile"
+  },
+  "keywords": [],
+  "author": "xTools",
+  "license": "GPL",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.1",
+    "sol-merger": "^2.0.1",
+    "truffle": "^5.1.26"
+  }
+}
