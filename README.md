@@ -44,9 +44,9 @@ But first, **Get MetaMask**. We recommend using [MetaMask](https://www.metamask.
 ### 2. Throw us some dust
 CUNT can also be minted for a small donation to the project. Send at least half a Finney ([= 0.0005 ETH][ccUnit], 10c @ 200 ETH/USD) to get some tokens in return.
 - Open MetaMask, click "Send"
-- Enter the [CUNT Smart Contract Adress][Etherscan] as recipient:
+- Enter the [CUNT Smart Contract Adress][Etherscan] as recipient: `0xa06b79b41bc24a83c350ff3f74c7beaf96574d71`
 
-[![Mainnet](https://img.shields.io/badge/Mainnet-0xa06b79b41bc24a83c350ff3f74c7beaf96574d71-brightgreen?style=for-the-badge&logo=ethereum)][Etherscan]
+[![CUNT](https://img.shields.io/badge/Mainnet-0xa06b79b41bc24a83c350ff3f74c7beaf96574d71-brightgreen?style=for-the-badge&logo=ethereum)][Etherscan]
 
 - Enter the amount of ETH you'd like to send (0.0005 ETH min to get tokens).
 - Set the **Gas Limit** to at least 65k in MetaMask *(important! your transaction may fail otherwise, and burn your gas)*
