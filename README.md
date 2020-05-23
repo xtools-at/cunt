@@ -76,6 +76,7 @@ Please double-check and adjust your gas **limit** for the following calls, to no
 
 ### No DApp or Social Media?
 No need for the fanciness really. Tokens can be claimed using [MetaMask] and [Etherscan], and transferred by any ERC20-compatible wallet. Creating a DApp for this project would be an overstatement 😝
+
 Same goes for Social Media - this is a fun project and not an elaborate exit scam, no need for Telegram Groups and thousands of Twitter followers.
 If you want to get in touch, use the cashtag [$CUNT][Twitter] on Twitter.
 
@@ -88,6 +89,9 @@ F**k those $CUNTs. I mean, come on, *Chinese Unified National Token*? Seriously?
 Because 42 or 420 weren't enough, and 69.420 would have been too much.
 
 ----
+
+## License
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) - if you create a knock-off, at least publish the source code.
 
 ## Special thanks to
 [OpenZeppelin] for their awesome Solidity contracts framework, [Truffle] for the toolset, and each and every [Ethereum Core][Ethereum] Dev.
