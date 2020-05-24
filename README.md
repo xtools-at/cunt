@@ -15,7 +15,7 @@ CUNT is therefore the perfect giveaway for crypto-beggars, scammers and other lo
 - CUNT can be transferred like any other token - but if your balance drops to zero, a new CUNT is minted and transferred to your wallet
 - No Hard Cap, zero decimals
 - The first 2048 CUNT can be claimed for free (4 CUNT per claim, one claim per wallet)
-- Pre-Mint: 500 CUNT, for giveaways (please don't feel offended if you get tokens dropped by the creator-wallet, we're just pushing 'adoption' 😅)
+- Pre-Mint: 500 CUNT, for giveaways (please don't feel offended if you get tokens dropped by the creator-wallet, we're just pushing 'adoption'😅)
 
 
 ## How to get CUNT
@@ -25,7 +25,7 @@ You cannot trade or buy CUNT on an exchange, as
 
 If you too want to share CUNT with your least favourite Etherians, there are **3 ways** to get you started.
 
-But first, **get MetaMask**. We recommend using [MetaMask](https://www.metamask.io), either on Mobile or Desktop. Other wallets were not tested and may not play nicely with [Etherscan]. Also, [get some ETH][Coinbase] to pay for the gas.
+But first, **get MetaMask**. We recommend using [MetaMask](https://www.metamask.io), either on Mobile or Desktop. Other wallets were not tested and may not play nicely with [Etherscan] or may get the applicable Gas limits wrong. Also, [get some ETH][Coinbase] to pay for the Gas.
 
 ### 1. Claim CUNT for free
 2048 tokens are available to be claimed for free from the smart contract directly. Every wallet can claim 4 tokens once, which means this is limited to the *first 512 users*.
@@ -39,7 +39,7 @@ But first, **get MetaMask**. We recommend using [MetaMask](https://www.metamask.
 <img src="images/etherscan-write.png" align="center" />
 
 - Click "Connect to Web3" to unlock MetaMask
-- Click "Claim", and set the **Gas Limit** to at least 100k in MetaMask *(important! your transaction may fail otherwise, and burn your gas)*
+- Click "Claim", and set the **Gas limit** to at least 100k in MetaMask *(important! your transaction may fail otherwise, and burn your Gas)*
 
 ### 2. Send us some dust
 CUNT can also be minted for a small donation to the project. Send at least half a Finney ([= 0.0005 ETH][ccUnit], 10c @ 200 USD/ETH) to get some tokens in return.
@@ -49,7 +49,7 @@ CUNT can also be minted for a small donation to the project. Send at least half 
 [![CUNT](https://img.shields.io/badge/Mainnet-0xa06b79b41bc24a83c350ff3f74c7beaf96574d71-brightgreen?style=for-the-badge&logo=ethereum)][Etherscan]
 
 - Enter the amount of ETH you'd like to send (0.0005 ETH min to get tokens).
-- Set the **Gas Limit** to at least 65k in MetaMask *(important! your transaction may fail otherwise, and burn your gas)*
+- Set the **Gas limit** to at least 65k in MetaMask *(important! your transaction may fail otherwise, and burn your Gas)*
 - You'll get 4 CUNT for every Finney you've sent (== 0.00025 ETH/CUNT)
 
 ### 3. Reach out
@@ -63,12 +63,12 @@ Hopefully there will be plenty of CUNT-bagholders soon. Reach out on Twitter usi
 ## FAQ
 
 ### Why CUNT?
-I just wanted to play around with unusual Token mechanics and claiming possibilities, and got tired of the cheap BOMB-knockoffs flooding Reddit and Twitter, so I tried to come up with something "original". I got super excited when I realised nobody else has thought about something *this* stupid before.
+I just wanted to play around with unusual token mechanics and claiming possibilities, and got tired of the cheap BOMB-knockoffs flooding Reddit and Twitter, so I tried to come up with something "original". I got super excited when I realised nobody else has thought about something *this* stupid before.
 
 ### How much Gas is CUNT using?
-We don't want you to run into "out-of-gas" situations when interacting with CUNT, so set the following gas **limits** when calling the contract (you can check current [Gas *prices* here][ccGas]). Better DApp-wallets like [MetaMask] will do this for you automatically, but even they get some of the values wrong sometimes.
+We don't want you to run into "out-of-gas" situations when interacting with CUNT, so set the following Gas **limits** when calling the contract (you can check current [Gas *prices* here][ccGas]). Better DApp-wallets like [MetaMask] will do this for you automatically, but even they get some of the values wrong sometimes.
 
-Please double-check and adjust your gas **limit** for the following calls, to not burn your gas by accident:
+Please double-check and adjust your Gas **limit** for the following calls, to not burn your Gas by accident:
 - `claim`: 100k Gas
 - `transfer`: 63k Gas (~5k less when *not* minting new tokens)
 - `transferMulti`: 30k Gas base call + 25k/address (no minting; may be more, add buffer)
