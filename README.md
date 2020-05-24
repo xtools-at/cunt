@@ -15,7 +15,7 @@ CUNT is therefore the perfect giveaway for crypto-beggars, scammers and other lo
 - CUNT can be transferred like any other token - but if your balance drops to zero, a new CUNT is minted and transferred to your wallet
 - No Hard Cap, zero decimals
 - The first 2048 CUNT can be claimed for free (4 CUNT per claim, one claim per wallet)
-- Pre-Mint: 500 CUNT, for 'giveaways'
+- Pre-Mint: 500 CUNT, for giveaways (please don't feel offended if you get tokens dropped by the creator-wallet, we're just pushing 'adoption' 😅)
 
 
 ## How to get CUNT
@@ -25,7 +25,7 @@ You cannot trade or buy CUNT on an exchange, as
 
 If you too want to share CUNT with your least favourite Etherians, there are **3 ways** to get you started.
 
-But first, **Get MetaMask**. We recommend using [MetaMask](https://www.metamask.io), either on Mobile or Desktop. Other wallets were not tested and may not play nicely with [Etherscan]. Also, [get some ETH][Coinbase] to pay for the gas.
+But first, **get MetaMask**. We recommend using [MetaMask](https://www.metamask.io), either on Mobile or Desktop. Other wallets were not tested and may not play nicely with [Etherscan]. Also, [get some ETH][Coinbase] to pay for the gas.
 
 ### 1. Claim CUNT for free
 2048 tokens are available to be claimed for free from the smart contract directly. Every wallet can claim 4 tokens once, which means this is limited to the *first 512 users*.
@@ -41,8 +41,8 @@ But first, **Get MetaMask**. We recommend using [MetaMask](https://www.metamask.
 - Click "Connect to Web3" to unlock MetaMask
 - Click "Claim", and set the **Gas Limit** to at least 100k in MetaMask *(important! your transaction may fail otherwise, and burn your gas)*
 
-### 2. Throw us some dust
-CUNT can also be minted for a small donation to the project. Send at least half a Finney ([= 0.0005 ETH][ccUnit], 10c @ 200 ETH/USD) to get some tokens in return.
+### 2. Send us some dust
+CUNT can also be minted for a small donation to the project. Send at least half a Finney ([= 0.0005 ETH][ccUnit], 10c @ 200 USD/ETH) to get some tokens in return.
 - Open MetaMask, click "Send"
 - Enter the [CUNT Smart Contract Adress][Etherscan] as recipient: `0xa06b79b41bc24a83c350ff3f74c7beaf96574d71`
 
@@ -75,7 +75,7 @@ Please double-check and adjust your gas **limit** for the following calls, to no
 - `sending ETH to the contract`: 65k Gas
 
 ### No DApp or Social Media?
-No need for the fanciness really. Tokens can be claimed using [MetaMask] and [Etherscan], and transferred by any ERC20-compatible wallet. Creating a DApp for this project would be an overstatement 😝
+No need for the fanciness really. Tokens can be claimed using [MetaMask] and [Etherscan], and transferred by any ERC20-compatible wallet. Creating a DApp for this project would be an overstatement😝
 
 Same goes for Social Media - this is a fun project and not an elaborate exit scam, no need for Telegram Groups and thousands of Twitter followers.
 If you want to get in touch, use the cashtag [$CUNT][Twitter] on Twitter.
@@ -83,7 +83,7 @@ If you want to get in touch, use the cashtag [$CUNT][Twitter] on Twitter.
 [![Twitter](https://img.shields.io/badge/Twitter-$CUNT-blue?style=for-the-badge&logo=twitter)][Twitter]
 
 ### You know there's a $CUNT token already, right?
-F**k those $CUNTs. I mean, come on, *Chinese Unified National Token*? Seriously?
+F**k those $CUNTs. I mean, come on, *Chinese Unified National Token*? Seriously?😂
 
 ### Why exactly 2048 claimable coins?
 Because 42 or 420 weren't enough, and 69.420 would have been too much.
